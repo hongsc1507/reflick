@@ -1,0 +1,28 @@
+.release_note_div { 
+    margin: 5px;
+    padding: 10px 15px 10px 15px;
+    border-width: 1px;
+    border-style: solid;
+    width: max-content;
+  }
+
+.release_note_black_div { 
+    margin: 5px;
+    padding: 10px 15px 10px 15px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    width: max-content;
+}
+
+.icon_style {
+    width: 80;
+    height: 80;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.hr_style {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
